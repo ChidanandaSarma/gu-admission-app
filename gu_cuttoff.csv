@@ -1,0 +1,159 @@
+Stream,Course,Category,Cutoff
+Arts,Anthropology,General,93.25
+Arts,Anthropology,EWS,90.75
+Arts,Anthropology,OBC,75.75
+Arts,Anthropology,ST(P),86.25
+Arts,Assamese,General,84.75
+Arts,Assamese,EWS,81
+Arts,Assamese,OBC,75.75
+Arts,Assamese,SC,77.75
+Arts,Assamese,ST(P),70.75
+Arts,Assamese,ST(H),42.25
+Arts,Economics,General,94
+Arts,Economics,EWS,91.75
+Arts,Economics,OBC,88.75
+Arts,Economics,SC,94
+Arts,Economics,ST(P),88.5
+Arts,Economics,ST(H),89.5
+Arts,Education,General,89.75
+Arts,Education,EWS,89
+Arts,Education,OBC,64.75
+Arts,Education,SC,86.75
+Arts,Education,ST(P),75.75
+Arts,Education,ST(H),73
+Arts,English,General,94
+Arts,English,EWS,88.75
+Arts,English,OBC,88
+Arts,English,SC,93.25
+Arts,English,ST(P),90.75
+Arts,English,ST(H),72.75
+Arts,Geography,General,95
+Arts,Geography,EWS,94.5
+Arts,Geography,OBC,90
+Arts,Geography,SC,94
+Arts,Geography,ST(P),93.75
+Arts,Geography,ST(H),89
+Arts,Hindi,General,76.5
+Arts,Hindi,EWS,82.5
+Arts,Hindi,OBC,75.75
+Arts,Hindi,SC,77.75
+Arts,Hindi,ST(P),69.75
+Arts,Hindi,ST(H),62
+Arts,History,General,95.5
+Arts,History,EWS,93.25
+Arts,History,OBC,87.75
+Arts,History,SC,92.75
+Arts,History,ST(P),90.75
+Arts,History,ST(H),87
+Arts,Library & Information Science,General,87
+Arts,Library & Information Science,EWS,82
+Arts,Library & Information Science,OBC,64.75
+Arts,Library & Information Science,ST(P),84.5
+Arts,Mass Communication,General,85.75
+Arts,Mass Communication,EWS,80.5
+Arts,Mass Communication,OBC,82.5
+Arts,Mass Communication,SC,85.25
+Arts,Mass Communication,ST(P),82.25
+Arts,Mass Communication,ST(H),70
+Arts,Philosophy,General,79.75
+Arts,Philosophy,EWS,54
+Arts,Philosophy,OBC,75.75
+Arts,Philosophy,SC,64
+Arts,Philosophy,ST(P),69
+Arts,Political Science,General,95
+Arts,Political Science,EWS,93.25
+Arts,Political Science,OBC,90.25
+Arts,Political Science,SC,94
+Arts,Political Science,ST(P),92.75
+Arts,Political Science,ST(H),88.25
+Arts,Psychology,General,95
+Arts,Psychology,EWS,89
+Arts,Psychology,OBC,92
+Arts,Psychology,SC,88.25
+Arts,Psychology,ST(P),88
+Arts,Psychology,ST(H),78.5
+Arts,Sociology,General,94.25
+Arts,Sociology,EWS,93.25
+Arts,Sociology,OBC,89
+Arts,Sociology,ST(P),89.5
+Arts,Sociology,ST(H),80.75
+Arts,Women Studies,General,76.25
+Arts,Women Studies,OBC,71.75
+Science,Anthropology,General,86.75
+Science,Anthropology,EWS,76
+Science,Anthropology,OBC,81.25
+Science,Anthropology,ST(P),70.25
+Science,Botany,General,93
+Science,Botany,EWS,91.75
+Science,Botany,OBC,87.75
+Science,Botany,SC,89.5
+Science,Botany,ST(P),90
+Science,Botany,ST(H),83.5
+Science,Chemical Science,General,91.75
+Science,Chemical Science,EWS,82.25
+Science,Chemical Science,OBC,81
+Science,Chemical Science,SC,84.75
+Science,Chemical Science,ST(H),73.25
+Science,Chemistry,General,92.5
+Science,Chemistry,EWS,89.5
+Science,Chemistry,OBC,89
+Science,Chemistry,SC,90.75
+Science,Chemistry,ST(P),86.5
+Science,Computer Science,General,88.75
+Science,Computer Science,EWS,88.25
+Science,Computer Science,OBC,82.25
+Science,Computer Science,SC,86.75
+Science,Computer Science,ST(P),81.75
+Science,Computer Science,ST(H),58.25
+Science,Economics (Dual),General,87
+Science,Economics (Dual),EWS,73.5
+Science,Economics (Dual),OBC,68.75
+Science,Economics (Dual),ST(P),63.8
+Science,Electronics & Communication Technology,General,89
+Science,Electronics & Communication Technology,EWS,86.75
+Science,Electronics & Communication Technology,OBC,77
+Science,Electronics & Communication Technology,SC,76.75
+Science,Electronics & Communication Technology,ST(P),77.5
+Science,Environmental Science,General,85.5
+Science,Environmental Science,EWS,67
+Science,Environmental Science,OBC,76.5
+Science,Environmental Science,SC,85.25
+Science,Environmental Science,ST(P),80.25
+Science,Environmental Science,ST(H),66.25
+Science,Geography (Dual),General,94.75
+Science,Geography (Dual),EWS,92.25
+Science,Geography (Dual),OBC,91.75
+Science,Geography (Dual),ST(P),92
+Science,Geology,General,94.75
+Science,Geology,EWS,92.25
+Science,Geology,OBC,91.75
+Science,Geology,SC,83.25
+Science,Geology,ST(P),83.75
+Science,Geology,ST(H),73.25
+Science,Library & Information Science,General,85.25
+Science,Library & Information Science,OBC,76.75
+Science,Mathematical Science,General,89
+Science,Mathematical Science,EWS,86.25
+Science,Mathematical Science,OBC,82.25
+Science,Mathematical Science,ST(H),70.5
+Science,Mathematics (Dual),General,93.25
+Science,Mathematics (Dual),EWS,89.5
+Science,Physical Science,General,84.75
+Science,Physical Science,OBC,72.75
+Science,Physical Science,ST(P),81
+Science,Physics,General,94
+Science,Physics,EWS,91
+Science,Physics,OBC,88.75
+Science,Physics,ST(P),84.75
+Science,Physics,ST(H),78.5
+Science,Software Development,General,81
+Science,Software Development,EWS,78.5
+Science,Software Development,OBC,73.25
+Science,Software Development,SC,77.25
+Science,Software Development,ST(P),70.75
+Science,Software Development,ST(H),66
+Science,Zoology,General,93
+Science,Zoology,EWS,90.75
+Science,Zoology,OBC,88
+Science,Zoology,SC,88.75
+Science,Zoology,ST(P),89.25
