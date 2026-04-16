@@ -78,37 +78,7 @@ filtered = data[
     (data["Course"] == course)
 ]
 
-st.markdown("""
-<style>
 
-/* Force dark theme */
-html, body, [class*="css"]  {
-    background-color: #0f172a !important;
-    color: white !important;
-}
-
-/* Main app background */
-.stApp {
-    background: linear-gradient(135deg, #0f172a, #1e293b);
-}
-
-/* Labels */
-label {
-    color: white !important;
-}
-
-/* Inputs text */
-input, select {
-    color: white !important;
-}
-
-/* Fix dropdown */
-div[data-baseweb="select"] {
-    color: white !important;
-}
-
-</style>
-""", unsafe_allow_html=True)
 
 
 
