@@ -60,7 +60,7 @@ st.markdown(
 
 
 
-data = pd.read_csv("/Users/chidanandasarma/Desktop/gu-cuttoff-app/gu_cuttoff.csv")
+data = pd.read_csv("cutoff.csv")
 
 
 marks = st.number_input("Enter your marks (Best of 4)", 0.0, 100.0)
