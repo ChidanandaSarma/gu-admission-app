@@ -95,6 +95,13 @@ if st.button("Check Admission Chance"):
     else:
         st.error("No data available")
 
+st.markdown(
+    "<p style='text-align: center; color: #94a3b8; font-size: 14px;'>"
+    "<i>Note: The cut-off marks are subject to variation this year, contingent upon the overall performance trends.</i>"
+    "</p>",
+    unsafe_allow_html=True
+)
+
 st.markdown("---")
 
 st.markdown(
